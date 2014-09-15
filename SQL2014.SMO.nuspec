@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SQL2012.SMO</id>
+    <version>12.0.2000.8</version>
+    <title>Microsoft SQL Server 2014 Management Objects</title>
+    <authors>Microsoft</authors>
+    <owners>Peter Gill</owners>
+    <projectUrl>http://www.microsoft.com/en-ca/download/details.aspx?id=42295</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The SQL Server Management Objects (SMO) is a .NET Framework object model that enables software developers to create client-side applications to manage and administer SQL Server objects and services. This object model will work with SQL Server 2000, SQL Server 2005, SQL Server 2008, SQL Server 2008 R2, SQL Server 2012, and SQL Server 2014.</description>
+    <summary>Microsoft SQL Server 2014 Feature Pack
+      The SQL Server Management Objects (SMO) is a .NET Framework object model that enables software developers to create client-side applications to manage and administer SQL Server objects and services. This object model will work with SQL Server 2000, SQL Server 2005, SQL Server 2008, SQL Server 2008 R2, SQL Server 2012, and SQL Server 2014.</summary>
+    <releaseNotes />
+    <tags>SQL SQL2014 SMO .NET XML CLR</tags>
+    <dependencies>
+      <dependency id="MSXML6.SP1" />
+      <dependency id="SQL2014.NativeClient" />
+      <dependency id="SQL2014.ClrTypes" />
+    </dependencies>
+  </metadata>
+</package>
