@@ -14,7 +14,7 @@
     <releaseNotes />
     <tags>SQL SQL2014 SMO .NET XML CLR</tags>
     <dependencies>
-      <dependency id="SQL2014.NativeClient" />
+      <dependency id="SQL2012.NativeClient" />
       <dependency id="SQL2014.ClrTypes" />
     </dependencies>
   </metadata>
